@@ -1,7 +1,7 @@
 import React from 'react'
 
-import { App } from './App'
+import { CurriculumVitae } from './CurriculumVitae'
 
 export function Root() {
-  return <App />
+  return <CurriculumVitae />
 }
