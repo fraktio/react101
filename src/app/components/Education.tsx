@@ -1,7 +1,7 @@
 import React from 'react'
 
 interface Props {
-  
+  education: EducationItem[],
 }
 
 interface EducationItem {
@@ -18,13 +18,3 @@ export function Education({ }: Props) {
     </div>
   )
 }
-
-
-education: [
-    {
-      placeOfStudy: 'Metropolia',
-      degree: 'Bachelor of Engineering, IT',
-      startDate: new Date('2012-09-01'),
-      endDate: new Date('2016-05-31'),
-    }
-  ],
