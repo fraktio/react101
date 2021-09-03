@@ -37,7 +37,7 @@
     "emotion-theming": "^10.0.27",
     "final-form": "^4.19.1",
     "framer-motion": "^1.10.3",
-    "immer": "^6.0.3",
+    "immer": "^9.0.6",
     "immutable": "^4.0.0-rc.12",
     "polished": "^3.5.1",
     "react": "^16.13.1",
